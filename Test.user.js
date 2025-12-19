@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Auto-Updating Script
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  A script that automatically updates from GitHub
 // @author       Your Name
 // @match        https://example.com/*
@@ -14,5 +14,5 @@
     'use strict';
 
     // Your script code goes here
-    console.log("Hello! This is version 1.3 of My Auto-Updating Script. Its my second script and my third.");
+    console.log("Hello! This is version 1.4 of My Auto-Updating Script. Its my second script and my third.");
 })();
