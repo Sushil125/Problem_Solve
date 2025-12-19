@@ -14,5 +14,5 @@
     'use strict';
 
     // Your script code goes here
-    console.log("Hello! This is version 1.0 of My Auto-Updating Script.");
+    console.log("Hello! This is version 1.0 of My Auto-Updating Script. Its my second script.");
 })();
