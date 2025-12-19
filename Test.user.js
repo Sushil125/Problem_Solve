@@ -6,8 +6,8 @@
 // @author       Your Name
 // @match        https://example.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/USERNAME/REPO/main/myscript.user.js
-// @downloadURL  https://raw.githubusercontent.com/USERNAME/REPO/main/myscript.user.js
+// @updateURL    https://raw.githubusercontent.com/sushil125/Problem_Solve/main/Test.user.js
+// @downloadURL  https://raw.githubusercontent.com/sushil125/Problem_Solve/main/Test.user.js
 // ==/UserScript==
 
 (function() {
