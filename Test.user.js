@@ -11,8 +11,18 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
-
-    // Your script code goes here
-    console.log("Hello! This is version 1.4 of My Auto-Updating Script. Its my second script and my third.");
+    const msg = "✅ Script version 1.5 running!";
+    console.log(msg);
+    const banner = document.createElement('div');
+    banner.textContent = msg;
+    banner.style.position = 'fixed';
+    banner.style.top = '0';
+    banner.style.left = '0';
+    banner.style.right = '0';
+    banner.style.background = '#0f0';
+    banner.style.color = '#000';
+    banner.style.padding = '5px';
+    banner.style.zIndex = '9999';
+    document.body.appendChild(banner);
 })();
+
