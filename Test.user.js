@@ -6,7 +6,7 @@
 // @author       Your Name
 // @match        https://example.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/Sushil125/Problem_Solve/main/Test.user.js
+// @updateURL    https://raw.githubusercontent.com/Sushil125/Problem_Solve/main/Test.user.jscachebust=1.5
 // @downloadURL  https://raw.githubusercontent.com/Sushil125/Problem_Solve/main/Test.user.js
 // ==/UserScript==
 
