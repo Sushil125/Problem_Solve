@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Auto-Updating Script
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @description  A script that automatically updates from GitHub
 // @author       Your Name
 // @match        https://example.com/*
@@ -11,7 +11,7 @@
 // ==/UserScript==
 
 (function() {
-    const msg = "✅ Script version 1.5 running!";
+    const msg = "✅ Script version 1.6 running!";
     console.log(msg);
     const banner = document.createElement('div');
     banner.textContent = msg;
