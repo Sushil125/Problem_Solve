@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         My Auto-Updating Script
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  A script that automatically updates from GitHub
 // @author       Your Name
 // @match        https://example.com/*
